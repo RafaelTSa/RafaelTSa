@@ -19,7 +19,10 @@ Sou estudante do **4º Semestre de Ciências da Computação (UFBRA)** com ênfa
 
 ---
 
-### 🔗 Conecte-se Comigo
+### 🔗 Conecte-se Comigo e Contatos
 
-**LinkedIn:** [Linkedin](https://www.linkedin.com/in/rafatsantos/) 
-**E-mail:** [texera09@outlook.com](mailto:texera09@outlook.com) ] ⬅️ 
+| Me encontre em: | Disponibilidade |
+| :--- | :--- |
+| **LinkedIn** | [Meu Perfil Profissional](https://www.linkedin.com/in/rafatsantos/) |
+| **E-mail** | [texera09@outlook.com](mailto:texera09@outlook.com) |
+| **Buscando:** | Estágio / Desenvolvedor Back-end Júnior (Python) |
