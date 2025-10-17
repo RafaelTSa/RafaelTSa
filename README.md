@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Teixeira dos Santos! 👋
+# Olá, eu sou o Rafael Teixeira dos Santos!
 ### 🎯 Desenvolvedor em Transição: Foco em Back-end (Python) & Análise de Dados
 
 Profissional em transição de carreira, utilizando **17 anos de experiência em Logística** para aplicar um **olhar sistêmico** e **lógica robusta de dados**, essenciais para desenvolver soluções Back-end eficientes.
