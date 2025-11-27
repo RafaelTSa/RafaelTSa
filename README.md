@@ -3,7 +3,7 @@
 
 Profissional em transição de carreira, utilizando **17 anos de experiência em Logística** para aplicar um **olhar sistêmico** e **lógica robusta de dados**, essenciais para desenvolver soluções Back-end eficientes.
 
-Sou estudante do **4º Semestre de Ciências da Computação (UFBRA)** com ênfase em **Algoritmos, Banco de Dados (SQL)** e **Programação com Python**. Buscando a primeira oportunidade de Estágio/Júnior.
+Sou estudante de **Ciências da Computação (UFBRA)** com ênfase em **Algoritmos, Banco de Dados (SQL)** e **Programação com Python**. Buscando a primeira oportunidade de Estágio/Júnior.
 
 ---
 
