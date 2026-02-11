@@ -1,27 +1,39 @@
-# Olá, eu sou o Rafael Teixeira dos Santos!
-### 🎯 Desenvolvedor em Transição: Foco em Back-end (Python) & Análise de Dados
+# Olá, sou o Rafael Teixeira! 👋
 
-Profissional em transição de carreira, utilizando **17 anos de experiência em Logística** para aplicar um **olhar sistêmico** e **lógica robusta de dados**, essenciais para desenvolver soluções Back-end eficientes.
+### 🛠️ Desenvolvedor Back-end & Analista de Dados
+**Transicionando 17 anos de vivência em Logística para a Engenharia de Software.**
 
-Sou estudante de **Ciências da Computação (UFBRA)** com ênfase em **Algoritmos, Banco de Dados (SQL)** e **Programação com Python**. Buscando a primeira oportunidade de Estágio/Júnior.
+Diferente de quem está começando do zero, trago quase duas décadas resolvendo problemas críticos sob pressão. Minha transição para o Back-end (Python/SQL) não é apenas sobre aprender sintaxe, mas sobre aplicar **lógica de processos** e **otimização de fluxo** — competências que adquiri gerindo operações complexas e sistemas ERP (Datasul/TOTVS).
 
----
-
-### 💻 Hard Skills e Ferramentas
-
-| Categoria | Habilidades |
-| :--- | :--- |
-| **Linguagem Foco** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Web Básico** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| **Sistemas** | Experiência com ERP (Datasul/TOTVS) |
+Atualmente cursando **Ciência da Computação na UFBRA**, foco em construir bases sólidas em algoritmos e estruturas de dados para entregar código limpo e funcional.
 
 ---
 
-### 🔗 Conecte-se Comigo e Contatos
+### 💻 O que eu domino
 
+| Categoria | Stack |
 | :--- | :--- |
-| **LinkedIn** | [Meu Perfil Profissional](https://www.linkedin.com/in/rafatsantos/) |
-| **E-mail** | [texera09@outlook.com](mailto:texera09@outlook.com) |
-| **Buscando:** | Estágio / Desenvolvedor Back-end Júnior (Python) |
+| **Linguagem Principal** | Python (Foco em automação e Back-end) |
+| **Bancos de Dados** | SQL, Modelagem Relacional e Manipulação de Dados |
+| **Ecossistema Web** | HTML5, CSS3, JavaScript (O essencial para integração) |
+| **Versionamento** | Git & Fluxo de trabalho no GitHub |
+| **Legado/Enterprise** | Proficiência em ERP (Datasul/TOTVS) e fluxos logísticos |
+
+---
+
+### 🚀 Projetos e Prática
+*(Dica: Aqui você deve listar seus repositórios principais. Se não tiver um projeto de logística ainda, recomendo criar um 'Analista de Estoque' ou 'Otimizador de Carga' simples em Python)*
+
+* **[Nome do Projeto]**: Breve explicação do problema que você resolveu com código.
+* **[Nome do Projeto]**: Como você usou Python ou SQL para facilitar uma tarefa.
+
+---
+
+### 🤝 Vamos conversar?
+
+* **Objetivo:** Estágio ou Júnior como Dev Back-end / Analista de Dados.
+* **LinkedIn:** [linkedin.com/in/rafatsantos/](https://www.linkedin.com/in/rafatsantos/)
+* **E-mail:** [texera09@outlook.com](mailto:texera09@outlook.com)
+
+---
+*"A tecnologia muda, a lógica de resolver problemas é o que fica."*
