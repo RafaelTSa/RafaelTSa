@@ -21,7 +21,6 @@ Sou estudante de **Ciências da Computação (UFBRA)** com ênfase em **Algoritm
 
 ### 🔗 Conecte-se Comigo e Contatos
 
-| Me encontre em: | Disponibilidade |
 | :--- | :--- |
 | **LinkedIn** | [Meu Perfil Profissional](https://www.linkedin.com/in/rafatsantos/) |
 | **E-mail** | [texera09@outlook.com](mailto:texera09@outlook.com) |
