@@ -23,17 +23,17 @@ Atualmente cursando **Ciência da Computação na UFBRA**, foco em construir bas
 
 ### 🚀 Projetos em Destaque
 
-* **[KeyMaster](https://github.com/RafaelTSa/KeyMaster)**: Gerenciador de senhas robusto desenvolvido em Python. Focado em segurança e organização de credenciais, utilizando o framework CustomTkinter para uma interface moderna e intuitiva.
-    * *Tecnologias:* Python, CustomTkinter, Lógica de Criptografia.
+* **[KeyMaster](https://github.com/RafaelTSa/KeyMaster)**: Gerenciador de senhas desenvolvido em Python. Focado em segurança e organização de credenciais, utilizando o framework CustomTkinter para uma interface moderna e funcional.
+    * *Tecnologias:* Python, CustomTkinter, Segurança de Dados.
 
-* **[Análise Multidisciplinar (Dados)](https://github.com/RafaelTSa/Projeto-Multidisciplinar-III-Ciencia-da-Computacao)**: Projeto acadêmico focado em Ciência de Dados, onde utilizei Python para analisar grandes volumes de informações, transformando dados brutos em insights estruturados.
-    * *Tecnologias:* Python, Pandas, Matplotlib/Seaborn.
+* **[Análise Multidisciplinar (Python + MongoDB)](https://github.com/RafaelTSa/Projeto-Multidisciplinar-III-Ciencia-da-Computacao)**: Projeto focado na manipulação e armazenamento de dados não estruturados. Demonstra a integração prática entre Python e MongoDB para gestão eficiente de informações.
+    * *Tecnologias:* Python, MongoDB (NoSQL), Integração de Sistemas.
 
-* **[Saúde & Saber](https://github.com/RafaelTSa/site-Saude-Saber)**: Site institucional voltado para a disseminação de informações de saúde. Demonstra minha base sólida em Front-end para criar interfaces limpas, responsivas e acessíveis.
+* **[Saúde & Saber](https://github.com/RafaelTSa/site-Saude-Saber)**: Site institucional voltado para a disseminação de informações de saúde. Demonstra minha base técnica para criar interfaces limpas, responsivas e bem estruturadas.
     * *Tecnologias:* HTML5, CSS3, JavaScript.
 
-* **[Comunica Comu](https://github.com/RafaelTSa/Atividade_extensionista_comunica_Comu)**: Projeto de extensão universitária voltado para impacto social e comunicação comunitária. Reflete minha capacidade de trabalhar em projetos com propósito e documentação estruturada.
-    * *Foco:* Planejamento, UX e Impacto Social.
+* **[Comunica Comu](https://github.com/RafaelTSa/Atividade_extensionista_comunica_Comu)**: Projeto de extensão universitária com foco em impacto social e comunicação comunitária. Reflete organização e capacidade de aplicar tecnologia para resolver demandas da sociedade.
+    * *Foco:* UX, Planejamento e Impacto Social.
 
 ---
 
