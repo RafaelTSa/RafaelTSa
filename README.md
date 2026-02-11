@@ -21,11 +21,19 @@ Atualmente cursando **Ciência da Computação na UFBRA**, foco em construir bas
 
 ---
 
-### 🚀 Projetos e Prática
-*(Dica: Aqui você deve listar seus repositórios principais. Se não tiver um projeto de logística ainda, recomendo criar um 'Analista de Estoque' ou 'Otimizador de Carga' simples em Python)*
+### 🚀 Projetos em Destaque
 
-* **[Nome do Projeto]**: Breve explicação do problema que você resolveu com código.
-* **[Nome do Projeto]**: Como você usou Python ou SQL para facilitar uma tarefa.
+* **[KeyMaster](https://github.com/RafaelTSa/KeyMaster)**: Gerenciador de senhas robusto desenvolvido em Python. Focado em segurança e organização de credenciais, utilizando o framework CustomTkinter para uma interface moderna e intuitiva.
+    * *Tecnologias:* Python, CustomTkinter, Lógica de Criptografia.
+
+* **[Análise Multidisciplinar (Dados)](https://github.com/RafaelTSa/Projeto-Multidisciplinar-III-Ciencia-da-Computacao)**: Projeto acadêmico focado em Ciência de Dados, onde utilizei Python para analisar grandes volumes de informações, transformando dados brutos em insights estruturados.
+    * *Tecnologias:* Python, Pandas, Matplotlib/Seaborn.
+
+* **[Saúde & Saber](https://github.com/RafaelTSa/site-Saude-Saber)**: Site institucional voltado para a disseminação de informações de saúde. Demonstra minha base sólida em Front-end para criar interfaces limpas, responsivas e acessíveis.
+    * *Tecnologias:* HTML5, CSS3, JavaScript.
+
+* **[Comunica Comu](https://github.com/RafaelTSa/Atividade_extensionista_comunica_Comu)**: Projeto de extensão universitária voltado para impacto social e comunicação comunitária. Reflete minha capacidade de trabalhar em projetos com propósito e documentação estruturada.
+    * *Foco:* Planejamento, UX e Impacto Social.
 
 ---
 
