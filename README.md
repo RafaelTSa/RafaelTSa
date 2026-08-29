@@ -48,12 +48,11 @@ Construí uma trajetória sólida de 17 anos na área de **Logística e Gestão 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 Foco de Desenvolvimento & Atividade
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelTSa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas de RafaelTSa" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTSa&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
-</p>
+![Python Most Used](https://img.shields.io/badge/Linguagem_Principal-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Focus Backend](https://img.shields.io/badge/Foco_Atual-APIs_RESTful_%26_Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Database Focus](https://img.shields.io/badge/Databases-MySQL_%7C_MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
