@@ -29,7 +29,7 @@ Construí uma trajetória sólida de 17 anos na área de **Logística e Gestão 
 
 ### 🛠️ Projetos em Destaque
 
-#### 🤖 [Zap da Vila](https://github.com/RafaelTSa)
+#### 🤖 [Zap da Vila - Monitor de Recursos](https://github.com/RafaelTSa/Zap_da_Vila-Monitor_de_Recursos)
 * **Descrição:** Bot de atendimento e gestão desenvolvido em Python e Flask, integrado ao MongoDB para registro, consulta e acompanhamento de ocorrências em tempo real.
 * **Tecnologias:** `Python` • `Flask` • `MongoDB` • `REST API`
 
@@ -37,18 +37,18 @@ Construí uma trajetória sólida de 17 anos na área de **Logística e Gestão 
 * **Descrição:** Plataforma web educacional adaptativa com arquitetura MVC, sistema completo de autenticação de usuários, dashboard de desempenho e persistência de dados em NoSQL.
 * **Tecnologias:** `Python` • `Flask` • `MongoDB` • `HTML/CSS`
 
-#### 🌐 [Comunica Comu](https://github.com/RafaelTSa/comunica-comu)
+#### 🌐 [Comunica Comu](https://github.com/RafaelTSa/Atividade_extensionista_comunica_Comu)
 * **Descrição:** Aplicação web para automação de processos em ONGs, realizando integração via requisições REST com as APIs do Google Forms e Google Sheets.
 * **Status:** 🟢 [Aplicação online no PythonAnywhere](https://texera09.pythonanywhere.com)
 * **Tecnologias:** `Python` • `Flask` • `Google APIs` • `PythonAnywhere`
 
-#### 📱 [GameBacklog](https://github.com/RafaelTSa)
+#### 📱 [GameBacklog](https://github.com/RafaelTSa/GameBacklog)
 * **Descrição:** Aplicativo mobile desenvolvido para organização, controle e gerenciamento de bibliotecas e status de acervos de jogos.
 * **Tecnologias:** `React Native` • `JavaScript` • `Mobile`
 
 ---
 
-###📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelTSa&show_icons=true&theme=radial&count_private=true" alt="Estatísticas de RafaelTSa" height="150"/>
