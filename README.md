@@ -1,47 +1,63 @@
-# Olá, sou o Rafael Teixeira! 👋
+# Olá, eu sou o Rafael Teixeira 👋
 
-### 🛠️ Desenvolvedor Back-end & Analista de Dados
-**Transicionando 17 anos de vivência em Logística para a Engenharia de Software.**
+### 🚀 Desenvolvedor Back-end Python Júnior | Ciência da Computação (UFBRA)
 
-Diferente de quem está começando do zero, trago quase duas décadas resolvendo problemas críticos sob pressão. Minha transição para o Back-end (Python/SQL) não é apenas sobre aprender sintaxe, mas sobre aplicar **lógica de processos** e **otimização de fluxo** — competências que adquiri gerindo operações complexas e sistemas ERP (Datasul/TOTVS).
+Graduando em Ciência da Computação com foco no desenvolvimento de **APIs RESTful**, **aplicações web**, **integração de bancos de dados (Relacionais e NoSQL)** e **automação de processos**.
 
-Atualmente cursando **Ciência da Computação na UFBRA**, foco em construir bases sólidas em algoritmos e estruturas de dados para entregar código limpo e funcional.
+Construí uma trajetória sólida de 17 anos na área de **Logística e Gestão de Processos** em empresas multinacionais (como ASSA ABLOY e KION Group). Essa bagagem consolidou um perfil altamente analítico, focado em acuracidade de dados, resolução de problemas complexos e arquitetura de fluxos — competências que aplico diretamente no desenvolvimento de software limpo e eficiente.
 
 ---
 
-### 💻 O que eu domino
+### 💻 Stack Técnica & Ferramentas
 
-| Categoria | Stack |
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+| Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Linguagem Principal** | Python (Foco em automação e Back-end) |
-| **Bancos de Dados** | SQL, Modelagem Relacional e Manipulação de Dados |
-| **Ecossistema Web** | HTML5, CSS3, JavaScript (O essencial para integração) |
-| **Versionamento** | Git & Fluxo de trabalho no GitHub |
-| **Legado/Enterprise** | Proficiência em ERP (Datasul/TOTVS) e fluxos logísticos |
+| **Linguagens & Frameworks** | Python 3, Flask, APIs RESTful, POO, Jinja2 |
+| **Bancos de Dados** | MySQL (Relacional), MongoDB (NoSQL) |
+| **Front-end & Mobile** | React Native, JavaScript (Básico), HTML5, CSS3 |
+| **DevOps & Ferramentas** | Git, GitHub, PythonAnywhere, Linux (básico), VS Code |
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🛠️ Projetos em Destaque
 
-* **[KeyMaster](https://github.com/RafaelTSa/KeyMaster)**: Gerenciador de senhas desenvolvido em Python. Focado em segurança e organização de credenciais, utilizando o framework CustomTkinter para uma interface moderna e funcional.
-    * *Tecnologias:* Python, CustomTkinter, Segurança de Dados.
+#### 🤖 [Zap da Vila](https://github.com/RafaelTSa)
+* **Descrição:** Bot de atendimento e gestão desenvolvido em Python e Flask, integrado ao MongoDB para registro, consulta e acompanhamento de ocorrências em tempo real.
+* **Tecnologias:** `Python` • `Flask` • `MongoDB` • `REST API`
 
-* **[Análise Multidisciplinar (Python + MongoDB)](https://github.com/RafaelTSa/Projeto-Multidisciplinar-III-Ciencia-da-Computacao)**: Projeto focado na manipulação e armazenamento de dados não estruturados. Demonstra a integração prática entre Python e MongoDB para gestão eficiente de informações.
-    * *Tecnologias:* Python, MongoDB (NoSQL), Integração de Sistemas.
+#### 📊 [Quiz de Tabuada Adaptativo](https://github.com/RafaelTSa/Projeto-Multidisciplinar-III-Ciencia-da-Computacao)
+* **Descrição:** Plataforma web educacional adaptativa com arquitetura MVC, sistema completo de autenticação de usuários, dashboard de desempenho e persistência de dados em NoSQL.
+* **Tecnologias:** `Python` • `Flask` • `MongoDB` • `HTML/CSS`
 
-* **[Saúde & Saber](https://github.com/RafaelTSa/site-Saude-Saber)**: Site institucional voltado para a disseminação de informações de saúde. Demonstra minha base técnica para criar interfaces limpas, responsivas e bem estruturadas.
-    * *Tecnologias:* HTML5, CSS3, JavaScript.
+#### 🌐 [Comunica Comu](https://github.com/RafaelTSa/comunica-comu)
+* **Descrição:** Aplicação web para automação de processos em ONGs, realizando integração via requisições REST com as APIs do Google Forms e Google Sheets.
+* **Status:** 🟢 [Aplicação online no PythonAnywhere](https://texera09.pythonanywhere.com)
+* **Tecnologias:** `Python` • `Flask` • `Google APIs` • `PythonAnywhere`
 
-* **[Comunica Comu](https://github.com/RafaelTSa/Atividade_extensionista_comunica_Comu)**: Projeto de extensão universitária com foco em impacto social e comunicação comunitária. Reflete organização e capacidade de aplicar tecnologia para resolver demandas da sociedade.
-    * *Foco:* UX, Planejamento e Impacto Social.
+#### 📱 [GameBacklog](https://github.com/RafaelTSa)
+* **Descrição:** Aplicativo mobile desenvolvido para organização, controle e gerenciamento de bibliotecas e status de acervos de jogos.
+* **Tecnologias:** `React Native` • `JavaScript` • `Mobile`
+
+---
+
+###📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelTSa&show_icons=true&theme=radial&count_private=true" alt="Estatísticas de RafaelTSa" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTSa&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
+</p>
 
 ---
 
-### 🤝 Vamos conversar?
+### 📫 Vamos nos conectar?
 
-* **Objetivo:** Estágio ou Júnior como Dev Back-end / Analista de Dados.
-* **LinkedIn:** [linkedin.com/in/rafatsantos/](https://www.linkedin.com/in/rafatsantos/)
-* **E-mail:** [texera09@outlook.com](mailto:texera09@outlook.com)
-
----
-*"A tecnologia muda, a lógica de resolver problemas é o que fica."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafatsantos)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:texera09@outlook.com)
