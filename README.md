@@ -51,8 +51,8 @@ Construí uma trajetória sólida de 17 anos na área de **Logística e Gestão 
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelTSa&show_icons=true&theme=radial&count_private=true" alt="Estatísticas de RafaelTSa" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTSa&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelTSa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas de RafaelTSa" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTSa&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
 </p>
 
 ---
